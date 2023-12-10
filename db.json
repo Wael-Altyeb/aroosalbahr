@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/Wael-Altyeb/aroosalbahr/main/img4.jpg",
       "heading": "صيادية الهامور",
       "price": 5,
       "des": "هذا النص تجريبي لغرض التصميم يمكن استبداله باي نص اخر",
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/Wael-Altyeb/aroosalbahr/main/img4.jpg",
       "heading": "صيادية الهامور",
       "price": 15,
       "des": "هذا النص تجريبي لغرض التصميم يمكن استبداله باي نص اخر",
@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/Wael-Altyeb/aroosalbahr/main/img4.jpg",
       "heading": "صيادية الهامور",
       "price": 25,
       "des": "هذا النص تجريبي لغرض التصميم يمكن استبداله باي نص اخر",
