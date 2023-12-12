@@ -1,0 +1,310 @@
+{
+  "theMenu": {
+    "frise": [
+      {
+        "id": 1,
+        "name": "فرايز بالبهارات",
+        "category": "frise",
+        "price": 2200
+      },
+      {
+        "id": 2,
+        "name": "فرايز بالصوصات",
+        "category": "frise",
+        "price": 2500
+      },
+      {
+        "id": 3,
+        "name": "فرايز بالجبنة والصوص",
+        "category": "frise",
+        "price": 2800
+      },
+      {
+        "id": 4,
+        "name": "فرايز بالفراخ والصوصات",
+        "category": "frise",
+        "price": 3000
+      },
+      {
+        "id": 5,
+        "name": "فرايز بالهوت دوق والجبنة والصوصات",
+        "category": "frise",
+        "price": 3000
+      },
+      {
+        "id": 6,
+        "name": "فرايز وجبة",
+        "category": "frise",
+        "price": 3600
+      }
+    ],
+    "indomie": [
+      {
+        "id": 7,
+        "name": "اندومي بالبهارات",
+        "category": "indomie",
+        "price": 1800
+      },
+      {
+        "id": 8,
+        "name": "اندومي بالجبنة والذرة",
+        "category": "indomie",
+        "price": 2200
+      },
+      {
+        "id": 9,
+        "name": "اندومي بالهوت دوق والصوصات",
+        "category": "indomie",
+        "price": 2500
+      },
+      {
+        "id": 10,
+        "name": "اندومي بالفراخ والصوصات",
+        "category": "indomie",
+        "price": 2500
+      }
+    ],
+    "zora": [
+      {
+        "id": 11,
+        "name": "ذره بالذبده والبهارات",
+        "category": "zora",
+        "price": 2000
+      },
+      {
+        "id": 12,
+        "name": "ذره بالجبنة",
+        "category": "zora",
+        "price": 2300
+      }
+    ],
+    "hot": [
+      {
+        "id": 13,
+        "name": "القهوة",
+        "category": "hot",
+        "price": 1000
+      },
+      {
+        "id": 14,
+        "name": "قهوه تركي",
+        "category": "hot",
+        "price": 1500
+      },
+      {
+        "id": 15,
+        "name": "فرنساوي",
+        "category": "hot",
+        "price": 1500
+      },
+      {
+        "id": 16,
+        "name": "كبتشينو",
+        "category": "hot",
+        "price": 2000
+      },
+      {
+        "id": 17,
+        "name": "نسكافيه",
+        "category": "hot",
+        "price": 2000
+      },
+      {
+        "id": 18,
+        "name": "اوفلتين",
+        "category": "hot",
+        "price": 2000
+      },
+      {
+        "id": 19,
+        "name": "هوت شوكلت",
+        "category": "hot",
+        "price": 2000
+      },
+      {
+        "id": 20,
+        "name": "شاي ساده",
+        "category": "hot",
+        "price": 1000
+      },
+      {
+        "id": 21,
+        "name": "شاي لبن",
+        "category": "hot",
+        "price": 1500
+      },
+      {
+        "id": 22,
+        "name": "جبنه وسط",
+        "category": "hot",
+        "price": 3500
+      },
+      {
+        "id": 23,
+        "name": "جبنه كبيره",
+        "category": "hot",
+        "price": 5000
+      },
+      {
+        "id": 24,
+        "name": "سحلب",
+        "category": "hot",
+        "price": 2000
+      },
+      {
+        "id": 25,
+        "name": "مشروب جلكسي",
+        "category": "hot",
+        "price": 2200
+      },
+      {
+        "id": 26,
+        "name": "قهوه بالشوكلاته",
+        "category": "hot",
+        "price": 2000
+      }
+    ],
+    "cold": [
+      {
+        "id": 27,
+        "name": "فراولة",
+        "category": "cold",
+        "price": 2000
+      },
+      {
+        "id": 28,
+        "name": "فراولة بالحليب",
+        "category": "cold",
+        "price": 2000
+      },
+      {
+        "id": 29,
+        "name": "مانجو",
+        "category": "cold",
+        "price": 2000
+      },
+      {
+        "id": 30,
+        "name": "مانجو بالحليب",
+        "category": "cold",
+        "price": 2000
+      },
+      {
+        "id": 31,
+        "name": "مشكل",
+        "category": "cold",
+        "price": 2000
+      },
+      {
+        "id": 32,
+        "name": "ليمون نعناع",
+        "category": "cold",
+        "price": 1900
+      },
+      {
+        "id": 33,
+        "name": "ليمون",
+        "category": "cold",
+        "price": 1700
+      },
+      {
+        "id": 34,
+        "name": "برتقال",
+        "category": "cold",
+        "price": 1700
+      },
+      {
+        "id": 35,
+        "name": "آيس كوفي",
+        "category": "cold",
+        "price": 2200
+      },
+      {
+        "id": 36,
+        "name": "موكا",
+        "category": "cold",
+        "price": 2400
+      },
+      {
+        "id": 37,
+        "name": "فرابتشينو",
+        "category": "cold",
+        "price": 2700
+      },
+      {
+        "id": 38,
+        "name": "موهيتو",
+        "category": "cold",
+        "price": 2000
+      },
+      {
+        "id": 39,
+        "name": "ميلك شيك فانيليا",
+        "category": "cold",
+        "price": 2500
+      },
+      {
+        "id": 40,
+        "name": "ميلك شيك شوكلا",
+        "category": "cold",
+        "price": 2700
+      },
+      {
+        "id": 41,
+        "name": "ميلك شيك (اوريو - لوتس)",
+        "category": "cold",
+        "price": 2800
+      },
+      {
+        "id": 42,
+        "name": "مياه معدنية",
+        "category": "cold",
+        "price": 700
+      },
+      {
+        "id": 43,
+        "name": "مياه غازية",
+        "category": "cold",
+        "price": 1000
+      }
+    ],
+    "waffles": [
+      {
+        "id": 44,
+        "name": "وافل بالفواكه والايسكريم (صغير)",
+        "category": "waffles",
+        "price": 2000
+      },
+      {
+        "id": 45,
+        "name": "وافل بالفواكه والايسكريم (كبير)",
+        "category": "waffles",
+        "price": 3500
+      },
+      {
+        "id": 46,
+        "name": "وافل بالنوتيلا (صغير)",
+        "category": "waffles",
+        "price": 2500
+      },
+      {
+        "id": 47,
+        "name": "وافل بالنوتيلا (كبير)",
+        "category": "waffles",
+        "price": 3300
+      },
+      {
+        "id": 48,
+        "name": "وافل بالعسل (صغير)",
+        "category": "waffles",
+        "price": 1500
+      },
+      {
+        "id": 49,
+        "name": "وافل بالعسل (كبير)",
+        "category": "waffles",
+        "price": 3000
+      }
+    ]
+  }
+}
