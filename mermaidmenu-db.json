@@ -305,6 +305,156 @@
         "category": "waffles",
         "price": 3000
       }
+    ],
+    "sandwich": [
+      {
+        "id": 50,
+        "name": "هوت دوق",
+        "category": "food",
+        "price": 3000
+      },
+      {
+        "id": 51,
+        "name": "كفته لحمة",
+        "category": "food",
+        "price": 3000
+      },
+      {
+        "id": 52,
+        "name": "بطاطس بالموزيلا",
+        "category": "food",
+        "price": 3000
+      },
+      {
+        "id": 53,
+        "name": "بطاطس فرنساوي (عادي)",
+        "category": "food",
+        "price": 2500
+      },
+      {
+        "id": 54,
+        "name": "شيش طاووق",
+        "category": "food",
+        "price": 3800
+      },
+      {
+        "id": 55,
+        "name": "فاهيتا لحمة",
+        "category": "food",
+        "price": 3200
+      },
+      {
+        "id": 56,
+        "name": "فاهيتا فراخ",
+        "category": "food",
+        "price": 3500
+      },
+      {
+        "id": 57,
+        "name": "كرسبي",
+        "category": "food",
+        "price": 3800
+      },
+      {
+        "id": 58,
+        "name": "زنجر",
+        "category": "food",
+        "price": 3800
+      },
+      {
+        "id": 59,
+        "name": "بيرجر بالجبنة",
+        "category": "food",
+        "price": 3800
+      },
+      {
+        "id": 60,
+        "name": "دبل بيرجر",
+        "category": "food",
+        "price": 4500
+      }
+    ],
+    "meals": [
+      {
+        "id": 61,
+        "name": "8 قطع فراخ بروستد",
+        "category": "food",
+        "price": 12000
+      },
+      {
+        "id": 62,
+        "name": "4 قطع فراخ بروستد",
+        "category": "food",
+        "price": 7000
+      },
+      {
+        "id": 63,
+        "name": "2 قطع فراخ بروستد",
+        "category": "food",
+        "price": 4000
+      },
+      {
+        "id": 64,
+        "name": "وجبة بطاطس",
+        "category": "food",
+        "price": 4000
+      },
+      {
+        "id": 65,
+        "name": "وجبة زنجر 4 قطع",
+        "category": "food",
+        "price": 6000
+      },
+      {
+        "id": 66,
+        "name": "وجبة كرسبي 4 قطع",
+        "category": "food",
+        "price": 6000
+      },
+      {
+        "id": 67,
+        "name": "وجبة كفته لحمة",
+        "category": "food",
+        "price": 6000
+      },
+      {
+        "id": 68,
+        "name": "فراخ بالفحم كامل",
+        "category": "food",
+        "price": 12000
+      },
+      {
+        "id": 69,
+        "name": "فراخ بالفحم نص",
+        "category": "food",
+        "price": 8000
+      },
+      {
+        "id": 70,
+        "name": "فراخ بالفحم ربع",
+        "category": "food",
+        "price": 4000
+      }
+    ],
+    "appetizers": [
+      {
+        "id": 71,
+        "name": "سلطة حضراء",
+        "category": "food",
+        "price": 1500
+      },
+      {
+        "id": 72,
+        "name": "سلطة طحينة",
+        "category": "food",
+        "price": 1000
+      },
+      {
+        "id": 73,
+        "name": "تومية",
+        "category": "food",
+        "price": 1000
+      }
     ]
   }
 }
