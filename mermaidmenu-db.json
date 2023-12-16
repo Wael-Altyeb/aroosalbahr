@@ -5,19 +5,19 @@
         "id": 1,
         "name": "فرايز بالبهارات",
         "category": "frise",
-        "price": 2200
+        "price": 2800
       },
       {
         "id": 2,
         "name": "فرايز بالصوصات",
         "category": "frise",
-        "price": 2500
+        "price": 3300
       },
       {
         "id": 3,
-        "name": "فرايز بالجبنة والصوص",
+        "name": "فرايز بالجبنة",
         "category": "frise",
-        "price": 2800
+        "price": 3500
       },
       {
         "id": 4,
@@ -27,52 +27,64 @@
       },
       {
         "id": 5,
-        "name": "فرايز بالهوت دوق والجبنة والصوصات",
+        "name": "فرايز بالهوت دوق",
         "category": "frise",
-        "price": 3000
+        "price": 3900
       },
       {
         "id": 6,
-        "name": "فرايز وجبة",
+        "name": "فرايز زنجر",
         "category": "frise",
-        "price": 3600
+        "price": 3900
+      },
+      {
+        "id": 7,
+        "name": "فرايز وجبة (زنجر+هوت دوق)",
+        "category": "frise",
+        "price": 7000
       }
     ],
     "indomie": [
       {
-        "id": 7,
+        "id": 8,
         "name": "اندومي بالبهارات",
         "category": "indomie",
         "price": 1800
       },
       {
-        "id": 8,
+        "id": 9,
         "name": "اندومي بالجبنة والذرة",
         "category": "indomie",
-        "price": 2200
-      },
-      {
-        "id": 9,
-        "name": "اندومي بالهوت دوق والصوصات",
-        "category": "indomie",
-        "price": 2500
+        "price": 2700
       },
       {
         "id": 10,
+        "name": "اندومي بالهوت دوق والصوصات",
+        "category": "indomie",
+        "price": 3000
+      },
+      {
+        "id": 11,
         "name": "اندومي بالفراخ والصوصات",
         "category": "indomie",
-        "price": 2500
+        "price": 3000
+      },
+      {
+        "id": 12,
+        "name": "اندومي زنجر ",
+        "category": "indomie",
+        "price": 3000
       }
     ],
     "zora": [
       {
-        "id": 11,
+        "id": 13,
         "name": "ذره بالذبده والبهارات",
         "category": "zora",
         "price": 2000
       },
       {
-        "id": 12,
+        "id": 14,
         "name": "ذره بالجبنة",
         "category": "zora",
         "price": 2300
@@ -80,85 +92,85 @@
     ],
     "hot": [
       {
-        "id": 13,
+        "id": 15,
         "name": "القهوة",
         "category": "hot",
         "price": 1000
       },
       {
-        "id": 14,
+        "id": 16,
         "name": "قهوه تركي",
         "category": "hot",
         "price": 1500
       },
       {
-        "id": 15,
+        "id": 17,
         "name": "فرنساوي",
         "category": "hot",
         "price": 1500
       },
       {
-        "id": 16,
+        "id": 18,
         "name": "كبتشينو",
         "category": "hot",
         "price": 2000
       },
       {
-        "id": 17,
+        "id": 19,
         "name": "نسكافيه",
         "category": "hot",
         "price": 2000
       },
       {
-        "id": 18,
+        "id": 20,
         "name": "اوفلتين",
         "category": "hot",
         "price": 2000
       },
       {
-        "id": 19,
+        "id": 21,
         "name": "هوت شوكلت",
         "category": "hot",
         "price": 2000
       },
       {
-        "id": 20,
+        "id": 22,
         "name": "شاي ساده",
         "category": "hot",
         "price": 1000
       },
       {
-        "id": 21,
+        "id": 23,
         "name": "شاي لبن",
         "category": "hot",
         "price": 1500
       },
       {
-        "id": 22,
+        "id": 24,
         "name": "جبنه وسط",
         "category": "hot",
         "price": 3500
       },
       {
-        "id": 23,
+        "id": 25,
         "name": "جبنه كبيره",
         "category": "hot",
         "price": 5000
       },
       {
-        "id": 24,
+        "id": 26,
         "name": "سحلب",
         "category": "hot",
         "price": 2000
       },
       {
-        "id": 25,
+        "id": 27,
         "name": "مشروب جلكسي",
         "category": "hot",
         "price": 2200
       },
       {
-        "id": 26,
+        "id": 28,
         "name": "قهوه بالشوكلاته",
         "category": "hot",
         "price": 2000
@@ -166,103 +178,109 @@
     ],
     "cold": [
       {
-        "id": 27,
+        "id": 29,
         "name": "فراولة",
         "category": "cold",
-        "price": 2000
+        "price": 1800
       },
       {
-        "id": 28,
+        "id": 30,
         "name": "فراولة بالحليب",
         "category": "cold",
         "price": 2000
       },
       {
-        "id": 29,
+        "id": 31,
         "name": "مانجو",
         "category": "cold",
         "price": 2000
       },
       {
-        "id": 30,
+        "id": 32,
         "name": "مانجو بالحليب",
         "category": "cold",
         "price": 2000
       },
       {
-        "id": 31,
+        "id": 33,
         "name": "مشكل",
         "category": "cold",
         "price": 2000
       },
       {
-        "id": 32,
+        "id": 34,
         "name": "ليمون نعناع",
         "category": "cold",
         "price": 1900
       },
       {
-        "id": 33,
+        "id": 35,
         "name": "ليمون",
         "category": "cold",
         "price": 1700
       },
       {
-        "id": 34,
+        "id": 36,
         "name": "برتقال",
         "category": "cold",
         "price": 1700
       },
       {
-        "id": 35,
+        "id": 37,
         "name": "آيس كوفي",
         "category": "cold",
-        "price": 2200
-      },
-      {
-        "id": 36,
-        "name": "موكا",
-        "category": "cold",
-        "price": 2400
-      },
-      {
-        "id": 37,
-        "name": "فرابتشينو",
-        "category": "cold",
-        "price": 2700
+        "price": 2500
       },
       {
         "id": 38,
+        "name": "موكا",
+        "category": "cold",
+        "price": 2800
+      },
+      {
+        "id": 39,
+        "name": "فرابتشينو",
+        "category": "cold",
+        "price": 3000
+      },
+      {
+        "id": 40,
         "name": "موهيتو",
         "category": "cold",
         "price": 2000
       },
       {
-        "id": 39,
-        "name": "ميلك شيك فانيليا",
-        "category": "cold",
-        "price": 2500
-      },
-      {
-        "id": 40,
-        "name": "ميلك شيك شوكلا",
-        "category": "cold",
-        "price": 2700
-      },
-      {
         "id": 41,
-        "name": "ميلك شيك (اوريو - لوتس)",
+        "name": "ميلك شيك فانيليا",
         "category": "cold",
         "price": 2800
       },
       {
         "id": 42,
+        "name": "ميلك شيك شوكلاته",
+        "category": "cold",
+        "price": 3200
+      },
+      {
+        "id": 43,
+        "name": "ميلك شيك اوريو",
+        "category": "cold",
+        "price": 3300
+      },
+      {
+        "id": 44,
+        "name": "ميلك شيك لوتس",
+        "category": "cold",
+        "price": 3500
+      },
+      {
+        "id": 45,
         "name": "مياه معدنية",
         "category": "cold",
         "price": 700
       },
       {
-        "id": 43,
+        "id": 46,
         "name": "مياه غازية",
         "category": "cold",
         "price": 1000
@@ -270,37 +288,37 @@
     ],
     "waffles": [
       {
-        "id": 44,
+        "id": 47,
         "name": "وافل بالفواكه والايسكريم (صغير)",
         "category": "waffles",
         "price": 2000
       },
       {
-        "id": 45,
+        "id": 48,
         "name": "وافل بالفواكه والايسكريم (كبير)",
         "category": "waffles",
         "price": 3500
       },
       {
-        "id": 46,
+        "id": 49,
         "name": "وافل بالنوتيلا (صغير)",
         "category": "waffles",
         "price": 2500
       },
       {
-        "id": 47,
+        "id": 50,
         "name": "وافل بالنوتيلا (كبير)",
         "category": "waffles",
-        "price": 3300
+        "price": 4000
       },
       {
-        "id": 48,
+        "id": 51,
         "name": "وافل بالعسل (صغير)",
         "category": "waffles",
         "price": 1500
       },
       {
-        "id": 49,
+        "id": 52,
         "name": "وافل بالعسل (كبير)",
         "category": "waffles",
         "price": 3000
@@ -308,67 +326,67 @@
     ],
     "sandwich": [
       {
-        "id": 50,
+        "id": 53,
         "name": "هوت دوق",
         "category": "food",
         "price": 3000
       },
       {
-        "id": 51,
+        "id": 54,
         "name": "كفته لحمة",
         "category": "food",
         "price": 3000
       },
       {
-        "id": 52,
+        "id": 55,
         "name": "بطاطس بالموزيلا",
         "category": "food",
         "price": 3000
       },
       {
-        "id": 53,
+        "id": 56,
         "name": "بطاطس فرنساوي (عادي)",
         "category": "food",
         "price": 2500
       },
       {
-        "id": 54,
+        "id": 57,
         "name": "شيش طاووق",
         "category": "food",
         "price": 3800
       },
       {
-        "id": 55,
+        "id": 58,
         "name": "فاهيتا لحمة",
         "category": "food",
         "price": 3200
       },
       {
-        "id": 56,
+        "id": 59,
         "name": "فاهيتا فراخ",
         "category": "food",
         "price": 3500
       },
       {
-        "id": 57,
+        "id": 60,
         "name": "كرسبي",
         "category": "food",
         "price": 3800
       },
       {
-        "id": 58,
+        "id": 61,
         "name": "زنجر",
         "category": "food",
         "price": 3800
       },
       {
-        "id": 59,
+        "id": 62,
         "name": "بيرجر بالجبنة",
         "category": "food",
         "price": 3800
       },
       {
-        "id": 60,
+        "id": 63,
         "name": "دبل بيرجر",
         "category": "food",
         "price": 4500
@@ -376,61 +394,61 @@
     ],
     "meals": [
       {
-        "id": 61,
+        "id": 64,
         "name": "8 قطع فراخ بروستد",
         "category": "food",
         "price": 12000
       },
       {
-        "id": 62,
+        "id": 65,
         "name": "4 قطع فراخ بروستد",
         "category": "food",
         "price": 7000
       },
       {
-        "id": 63,
+        "id": 66,
         "name": "2 قطع فراخ بروستد",
         "category": "food",
         "price": 4000
       },
       {
-        "id": 64,
+        "id": 67,
         "name": "وجبة بطاطس",
         "category": "food",
         "price": 4000
       },
       {
-        "id": 65,
+        "id": 68,
         "name": "وجبة زنجر 4 قطع",
         "category": "food",
         "price": 6000
       },
       {
-        "id": 66,
+        "id": 69,
         "name": "وجبة كرسبي 4 قطع",
         "category": "food",
         "price": 6000
       },
       {
-        "id": 67,
+        "id": 70,
         "name": "وجبة كفته لحمة",
         "category": "food",
         "price": 6000
       },
       {
-        "id": 68,
+        "id": 71,
         "name": "فراخ بالفحم كامل",
         "category": "food",
         "price": 12000
       },
       {
-        "id": 69,
+        "id": 72,
         "name": "فراخ بالفحم نص",
         "category": "food",
         "price": 8000
       },
       {
-        "id": 70,
+        "id": 73,
         "name": "فراخ بالفحم ربع",
         "category": "food",
         "price": 4000
@@ -438,22 +456,182 @@
     ],
     "appetizers": [
       {
-        "id": 71,
+        "id": 74,
         "name": "سلطة حضراء",
         "category": "food",
         "price": 1500
       },
       {
-        "id": 72,
+        "id": 75,
         "name": "سلطة طحينة",
         "category": "food",
         "price": 1000
       },
       {
-        "id": 73,
+        "id": 76,
         "name": "تومية",
         "category": "food",
         "price": 1000
+      }
+    ],
+    "sweets": [
+      {
+        "id": 77,
+        "name": "كريب قشطه وعسل",
+        "category": "sweets",
+        "price": 3500
+      },
+      {
+        "id": 78,
+        "name": "كريب شوكلاته",
+        "category": "sweets",
+        "price": 3600
+      },
+      {
+        "id": 79,
+        "name": "كريب (موز-قشطه-عسل)",
+        "category": "sweets",
+        "price": 3500
+      },
+      {
+        "id": 80,
+        "name": "بسبوسة",
+        "category": "sweets",
+        "price": 2000
+      },
+      {
+        "id": 81,
+        "name": "قشطوطه",
+        "category": "sweets",
+        "price": 3500
+      },
+      {
+        "id": 82,
+        "name": "انجليش كيك",
+        "category": "sweets",
+        "price": 2000
+      },
+      {
+        "id": 83,
+        "name": "تشير كيك",
+        "category": "sweets",
+        "price": 2000
+      },
+      {
+        "id": 84,
+        "name": "سينابون رول اوريو",
+        "category": "sweets",
+        "price": 2000
+      },
+      {
+        "id": 85,
+        "name": "سينابون رول لوتس",
+        "category": "sweets",
+        "price": 2000
+      }
+    ],
+    "zalabia": [
+      {
+        "id": 86,
+        "name": "نوتيلا صافي ( صغير )",
+        "category": "zalabia",
+        "price": 3500
+      },
+      {
+        "id": 87,
+        "name": "نوتيلا صافي ( وسط )",
+        "category": "zalabia",
+        "price": 5500
+      },
+      {
+        "id": 88,
+        "name": "نوتيلا صافي ( كبير )",
+        "category": "zalabia",
+        "price": 7500
+      },
+      {
+        "id": 89,
+        "name": " نوتيلا وشوكلاته مكس ( صغير )",
+        "category": "zalabia",
+        "price": 3600
+      },
+      {
+        "id": 90,
+        "name": " نوتيلا وشوكلاته مكس ( وسط )",
+        "category": "zalabia",
+        "price": 5700
+      },
+      {
+        "id": 91,
+        "name": " نوتيلا وشوكلاته مكس ( كبير )",
+        "category": "zalabia",
+        "price": 7600
+      },
+      {
+        "id": 92,
+        "name": "نوتيلا وشطه ( صغير )",
+        "category": "zalabia",
+        "price": 3800
+      },
+      {
+        "id": 93,
+        "name": "نوتيلا وشطه ( وسط )",
+        "category": "zalabia",
+        "price": 5900
+      },
+      {
+        "id": 94,
+        "name": "نوتيلا وشطه ( كبير )",
+        "category": "zalabia",
+        "price": 7800
+      },
+      {
+        "id": 95,
+        "name": "لوتس وقشطه ( صغير )",
+        "category": "zalabia",
+        "price": 3800
+      },
+      {
+        "id": 96,
+        "name": "لوتس وقشطه ( وسط )",
+        "category": "zalabia",
+        "price": 5900
+      },
+      {
+        "id": 97,
+        "name": "لوتس وقشطه ( كبير )",
+        "category": "zalabia",
+        "price": 7800
+      },
+      {
+        "id": 98,
+        "name": "شوكلاته سوداء ( صغير )",
+        "category": "zalabia",
+        "price": 3400
+      },
+      {
+        "id": 99,
+        "name": "شوكلاته سوداء ( وسط )",
+        "category": "zalabia",
+        "price": 5500
+      },
+      {
+        "id": 100,
+        "name": "شوكلاته سوداء ( كبير )",
+        "category": "zalabia",
+        "price": 7400
+      },
+      {
+        "id": 101,
+        "name": "شوكلاته بيضاء ( صغير )",
+        "category": "zalabia",
+        "price": 3400
+      },
+      {
+        "id": 102,
+        "name": "شوكلاته بيضاء ( وسط )",
+        "category": "zalabia",
+        "price": 5500
       }
     ]
   }
