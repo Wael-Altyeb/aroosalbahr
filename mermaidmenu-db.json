@@ -181,13 +181,13 @@
         "id": 29,
         "name": "فراولة",
         "category": "cold",
-        "price": 1800
+        "price": 2000
       },
       {
         "id": 30,
         "name": "فراولة بالحليب",
         "category": "cold",
-        "price": 2000
+        "price": 2500
       },
       {
         "id": 31,
